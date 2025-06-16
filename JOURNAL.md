@@ -1,8 +1,17 @@
-*Total hours spent: 0* | *Date started: 16 June 2025*
+*Total hours spent: 1* | *Date started: 16 June 2025*
 
 ---
 # Pomodoro Timer
 _i need to study_
+
+## entry #1 - 6/16
+
+i spent the last hour figuring out what i was going to use for the display, and i decided on this 4.0" TFT LCD (ST7796S) driven by an arduino nano. i then created a quick cad of the case, whuich does not contain any electronics components yet -- i will need to add the hole for the rotary encoder, buttons, power, etc. and all of it will fit inside this tight housing, likely powered by four AA batteries. if needed i will enlarge the housing. i will also add a hidden message inside / outside the case! 
+
+tomorrow i will look at electronics and try to get some real stuff going on. i anticipate this will be a short project but i'll still learn a lot because i've never used SPI before and i've also never played with displays or buzzers before!
+
+![image](https://github.com/user-attachments/assets/0397fb25-0675-433d-847f-a421fdb4fbc8)
+
 
 ## entry #0 - 6/16
 
