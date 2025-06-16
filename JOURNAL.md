@@ -12,6 +12,7 @@ tomorrow i will look at electronics and try to get some real stuff going on. i a
 
 ![image](https://github.com/user-attachments/assets/0397fb25-0675-433d-847f-a421fdb4fbc8)
 
+_time spent during session: 1 hour_
 
 ## entry #0 - 6/16
 
