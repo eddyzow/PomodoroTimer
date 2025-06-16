@@ -1,7 +1,7 @@
 *Total hours spent: 0* | *Date started: 16 June 2025*
 
 ---
-# EZCam
+# Pomodoro Timer
 _i need to study_
 
 ## entry #0 - 6/16
