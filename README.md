@@ -1,7 +1,7 @@
 # PomodoroTimer
 *i need to study and don't know how!*
 
-A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three buttons and a rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
+A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three momentary pushbutton switches and an EC11 rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
 
 # Design Photos
 
