@@ -1,14 +1,24 @@
-*Total hours spent: 9* | *Date started: 16 June 2025*
+*Total hours spent: 10* | *Date started: 16 June 2025*
 
 ---
 # Pomodoro Timer
 _i need to study_
+
+## entry #4 - 6/17
+
+finally, i've finished making the BOM and added pictures into the repo! i realized that the case is intended to come together in only two pieces (the back cover and the rest) -- i think this is great since my printer can print the entire case in one part (just with some supports). 
+
+i'm looking forward to receiving my parts and getting to build this thing! it's been a great project and i hope to see you again in my next!
+
+_time spent during session: 1 hour_
 
 ## entry #3 - 6/17
 
 two hours later i've finished writing the firmware! it's based on the Adafruit_ST7796S_kbv package, a package that i'm not sure will seamlessly work with the TFT screen i'm using right now. if it doesn't work i'll just the TFT_eSPI library instead.
 
 and this about wraps it up for the building phase of this short project! i'll add the STEP files into the repo. the last thing i need to do is create the BOM and then submit! it should be well under the budget limit of $150 for highway projects.
+
+_time spent during session: 2 hours_
 
 ## entry #2 - 6/17
 
