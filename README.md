@@ -1,7 +1,9 @@
 # PomodoroTimer
 *i need to study and don't know how!*
 
-A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three momentary pushbutton switches and an EC11 rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
+I've struggled with autism in early childhood and ADHD my entire life. It goes without saying that studying has never been the easiest thing for me. I've always been keen on finding interesting ways to improve study habits as a result! One of these strategies is the Pomodoro Timer, a special study method that involves 25 minutes of work and then 5 minutes of break. There's also the 52/17 method, which gives a 17-minute break after 52 minutes of studying. After not enjoying having to use a Pomodoro Timer on some random online websites, I decided that a beautiful physical device to allow me to use the Pomodoro Timer effectively would be a very cool thing to build for Highway! I decided to use a TFT LCD screen because I've never done any hardware work with displays nor have I done any work with SPI communication devices. This is the first of those for me!
+
+Behold PomodoroTimer! A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three momentary pushbutton switches and an EC11 rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
 
 # Design Photos
 
