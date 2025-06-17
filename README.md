@@ -8,6 +8,7 @@ A simple pomodoro timer with time adjustment function, swap between modes (norma
 ![image](https://github.com/user-attachments/assets/7c70e237-0dee-4561-a22a-16a817cc7446)
 ![image](https://github.com/user-attachments/assets/7f2ca509-f032-401e-9ef8-379abd75b036)
 ![image](https://github.com/user-attachments/assets/ef842b13-29de-476f-a823-ebbba32c1691)
+![image](https://github.com/user-attachments/assets/695a9b8f-ceb3-4d98-bd90-63149d2656ee)
 
 # Case Design
 
