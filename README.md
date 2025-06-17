@@ -7,7 +7,9 @@ One of these strategies is the Pomodoro Timer, a special study method that invol
 
 I decided to use a TFT LCD screen because I've never done any hardware work with displays nor have I done any work with SPI communication devices. This is the first of those for me!
 
-Behold PomodoroTimer! A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three momentary pushbutton switches and an EC11 rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
+Behold PomodoroTimer! A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm. Powered by an Arduino Nano and contains minimalistic controls: just three momentary pushbutton switches and an EC11 rotary encoder on the side. Timer is shown through a 4.0" TFT LCD screen. Custom firmware written in Arduino. 
+
+The case is slightly angled to present the buttons to the user in an ergonomic fashion. The entire design was created in Onshape CAD! Created for Hack Club's Highway program.
 
 # Design Photos
 
