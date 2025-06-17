@@ -13,7 +13,11 @@ A simple pomodoro timer with time adjustment function, swap between modes (norma
 
 ![image](https://github.com/user-attachments/assets/febabce9-ad7b-4055-9bb8-aab78de73a8a)
 
+# Firmware
+Firmware was written in Arduino with a small amount of help from Gemini -- library being used is the Adafruit_ST7796S_kbv package and pin choices and wire routing is still my own!
+
 # Bill of Materials
+For a full BOM with links, visit https://docs.google.com/spreadsheets/d/1WLxYVnncp4hckqmgex7FmrPYrEnqb0mDVtI4Y9LR5lQ/edit?usp=sharing
 
 | Item Name                                | Purpose                                                  | Item Source | Quantity | Unit Cost (includes taxes) | Cost    |
 |:-----------------------------------------|:----------------------------------------------------------|:------------|---------:|:----------------------------|:--------|
