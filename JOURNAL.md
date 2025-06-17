@@ -8,13 +8,21 @@ _i need to study_
 
 finally, i've finished making the BOM and added pictures into the repo! i realized that the case is intended to come together in only two pieces (the back cover and the rest) -- i think this is great since my printer can print the entire case in one part (just with some supports). 
 
+![image](https://github.com/user-attachments/assets/7ad71a21-b5eb-4201-8cd2-2f37d4211a31)
+
 i'm looking forward to receiving my parts and getting to build this thing! it's been a great project and i hope to see you again in my next!
 
 _time spent during session: 1 hour_
 
 ## entry #3 - 6/17
 
-two hours later i've finished writing the firmware! it's based on the Adafruit_ST7796S_kbv package, a package that i'm not sure will seamlessly work with the TFT screen i'm using right now. if it doesn't work i'll just the TFT_eSPI library instead.
+with some help from my best buddy (shh) i finished the firmware! it's based on the Adafruit_ST7796S_kbv package, a package that i'm not sure will seamlessly work with the TFT screen i'm using right now. if it doesn't work i'll just the TFT_eSPI library instead.
+
+the code covers some of the tiny features of this timer that make it satisfying to use. for example, when you click the rotary encoder once, it flashes the minutes on the clock, then you can turn the encoder to increase or decrease the minutes of your timer! then when you click again, it will flash the seconds on the clock, so you can turn the encoder to change that! then when you click again, it sets the time! each click of a button has a sound feedback from the buzzer.
+
+here are the modes (good luck reading code!)
+
+![image](https://github.com/user-attachments/assets/5546b22c-aebc-4a77-a8f9-6d638b1ca8e6)
 
 and this about wraps it up for the building phase of this short project! i'll add the STEP files into the repo. the last thing i need to do is create the BOM and then submit! it should be well under the budget limit of $150 for highway projects.
 
