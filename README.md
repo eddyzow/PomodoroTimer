@@ -38,9 +38,8 @@ For a full BOM with links, visit https://docs.google.com/spreadsheets/d/1WLxYVnn
 | Clone Arduino Nano Board (3 Pack)        | Logic / brains for the timer. Not sold individually!!     | Amazon      |        1 | $16.88                     | $16.88  |
 | 4.0" 480x320 TFT LCD Screen              | Color screen to make the function of the timer beautiful  | Amazon      |        1 | $18.37                     | $18.37  |
 | AA Battery Holder (4 AA)                 | Holds the batteries for the project                       | Amazon      |        1 | $6.35                      | $6.35   |
-| Soldering Iron                           | I didn't get a soldering iron grant yet... and this project requires it | Amazon |        1 | $12.74                     | $12.74  |
 | Jumper Wires                             | To connect the various electronics on the project         | Amazon      |        1 | $7.42                      | $7.42   |
 | 3.3V-5V Logic Level Shifter              | Logic level shifter is necessary to communicate to the 3.3V LCD | Amazon |        1 | $7.95                      | $7.95   |
 | Passive Buzzer                           | To make sounds on input and alarm/timer                   | Amazon      |        1 | $6.36                      | $6.36   |
-| **TOTAL**                                |                                                           |             |       10 |                            | **$98.36** |
+| **TOTAL**                                |                                                           |             |       10 |                            | **$85.62** |
 
