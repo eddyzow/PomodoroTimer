@@ -30,19 +30,18 @@ V1: ![image](https://github.com/user-attachments/assets/289b60da-a0ac-409f-aa88-
 Firmware was written in Arduino with a small amount of help from Gemini -- library being used is the Adafruit_ST7796S_kbv package and pin choices and wire routing is still my own!
 
 # Bill of Materials
-Note: cost is now less because I got my soldering iron grant! I removed the soldering iron from the BOM for this project as a result.
+Note: cost is now less because I removed lots of stuff I could probably scavenge from another project and also optimized other products.
 
 For a full BOM with links, visit https://docs.google.com/spreadsheets/d/1WLxYVnncp4hckqmgex7FmrPYrEnqb0mDVtI4Y9LR5lQ/edit?usp=sharing
 
 | Item Name                                | Purpose                                                  | Item Source | Quantity | Unit Cost (includes taxes) | Cost    |
 |:-----------------------------------------|:----------------------------------------------------------|:------------|---------:|:----------------------------|:--------|
-| 2pc 12mm Momentary Pushbutton Switch     | Buttons for mode, start/stop, and extend functions        | Amazon      |        2 | $7.43                      | $14.86  |
+| 5pc 12mm Momentary Pushbutton Switch     | Buttons for mode, start/stop, and extend functions        | Amazon      |        1 | $8.59                      | $8.59   |
 | 2pc 12mm Latching Pushbutton Switch      | Power button                                              | Amazon      |        1 | $7.43                      | $7.43   |
-| Clone Arduino Nano Board (3 Pack)        | Logic / brains for the timer. Not sold individually!!     | Amazon      |        1 | $16.88                     | $16.88  |
+| Clone Arduino Nano Board (2 Pack)        | Logic / brains for the timer. Not sold individually!!     | Amazon      |        1 | $9.55                      | $9.55   |
 | 4.0" 480x320 TFT LCD Screen              | Color screen to make the function of the timer beautiful  | Amazon      |        1 | $18.37                     | $18.37  |
-| AA Battery Holder (4 AA)                 | Holds the batteries for the project                       | Amazon      |        1 | $6.35                      | $6.35   |
-| Jumper Wires                             | To connect the various electronics on the project         | Amazon      |        1 | $7.42                      | $7.42   |
+| AA Battery Holder (4 AA)                 | Holds the batteries for the project                       | Amazon      |        1 | $5.30                      | $5.30   |
 | 3.3V-5V Logic Level Shifter              | Logic level shifter is necessary to communicate to the 3.3V LCD | Amazon |        1 | $7.95                      | $7.95   |
-| Passive Buzzer                           | To make sounds on input and alarm/timer                   | Amazon      |        1 | $6.36                      | $6.36   |
-| **TOTAL**                                |                                                           |             |       9 |                            | **$85.62** |
+| **TOTAL**                                |                                                           |             |        6 |                            | **$57.19** |
+
 
