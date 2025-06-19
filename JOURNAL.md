@@ -1,6 +1,12 @@
+---
+title: "PomodoroTimer"
+author: "Eddy Zhao (@eddyzow)"
+description: "A simple pomodoro timer with time adjustment function, swap between modes (normal, extended break, 52/17), and alarm."
+created_at: "2025-06-16"
+---
+
 *Total hours spent: 10* | *Date started: 16 June 2025*
 
----
 # Pomodoro Timer
 _i need to study_
 
