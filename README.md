@@ -23,7 +23,8 @@ The case is slightly angled to present the buttons to the user in an ergonomic f
 ![image](https://github.com/user-attachments/assets/febabce9-ad7b-4055-9bb8-aab78de73a8a)
 
 # Wiring Diagram
-![image](https://github.com/user-attachments/assets/289b60da-a0ac-409f-aa88-043f0908b8e3)
+V2: ![image](https://github.com/user-attachments/assets/6e7c1ba7-164a-4d1f-937f-0180469168f8)
+V1: ![image](https://github.com/user-attachments/assets/289b60da-a0ac-409f-aa88-043f0908b8e3)
 
 # Firmware
 Firmware was written in Arduino with a small amount of help from Gemini -- library being used is the Adafruit_ST7796S_kbv package and pin choices and wire routing is still my own!
