@@ -29,6 +29,8 @@ The case is slightly angled to present the buttons to the user in an ergonomic f
 Firmware was written in Arduino with a small amount of help from Gemini -- library being used is the Adafruit_ST7796S_kbv package and pin choices and wire routing is still my own!
 
 # Bill of Materials
+Note: cost is now less because I got my soldering iron grant! I removed the soldering iron from the BOM for this project as a result.
+
 For a full BOM with links, visit https://docs.google.com/spreadsheets/d/1WLxYVnncp4hckqmgex7FmrPYrEnqb0mDVtI4Y9LR5lQ/edit?usp=sharing
 
 | Item Name                                | Purpose                                                  | Item Source | Quantity | Unit Cost (includes taxes) | Cost    |
