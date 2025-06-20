@@ -5,10 +5,22 @@ description: "A simple pomodoro timer with time adjustment function, swap betwee
 created_at: "2025-06-16"
 ---
 
-*Total hours spent: 10* | *Date started: 16 June 2025*
+*Total hours spent: 11* | *Date started: 16 June 2025*
 
 # Pomodoro Timer
 _i need to study_
+
+## entry #5 - 6/19
+
+yesterday my project was not approved since the entire BOM was from amazon! thus, i went and removed some stuff and found a piezo buzzer i thought i had lost. and i was able to reduce the BOM by about $30!
+
+i also updated the wiring diagram to show the direct wiring connections:
+
+![image](https://github.com/user-attachments/assets/dccf9091-fe3c-4fe3-82ff-072d8d9f364b)
+
+afterwards my project was approved -- can't wait to start!
+
+_time spent during session: 1 hour_
 
 ## entry #4 - 6/17
 
