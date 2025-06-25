@@ -5,10 +5,20 @@ description: "A simple pomodoro timer with time adjustment function, swap betwee
 created_at: "2025-06-16"
 ---
 
-*Total hours spent: 11* | *Date started: 16 June 2025*
+*Total hours spent: 17* | *Date started: 16 June 2025*
 
 # Pomodoro Timer
 _i need to study_
+
+## entry #6 - 6/25
+
+finally received the parts and put it together! i'm on my phone typing this so no images but i'll add some tomorrow and submit hopefully! 
+
+it's an amazing little device and i had to jump a few hurdles to get here such as pin #6 being dead and me forgetting to set the clock speed to the maximum for the display... but everything does work as intended! and i'm absolutely shocked that none of my solder work failed and pretty much everything worked on the first or second try.
+
+i have the battery/power button system to implement last. so far i've just had it powered through usb-c, but that's about to change!
+
+_time spent during session: 6 hours_
 
 ## entry #5 - 6/19
 
