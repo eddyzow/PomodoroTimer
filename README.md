@@ -1,5 +1,13 @@
 # PomodoroTimer
-*i need to study and don't know how!*
+*i need to study and don't know how!
+
+# Build Photos
+
+![image](https://github.com/user-attachments/assets/114f6134-c00b-40cb-a946-9b0d0a92b756)
+![image](https://github.com/user-attachments/assets/50fff4a3-1299-4236-b577-3239b8d7bac7)
+![image](https://github.com/user-attachments/assets/ac3bf599-f91f-4385-a0e6-7b1af19456c6)
+
+## Description
 
 I've struggled with autism in early childhood and ADHD my entire life. It goes without saying that studying has never been the easiest thing for me. I've always been keen on finding interesting ways to improve study habits as a result! 
 
