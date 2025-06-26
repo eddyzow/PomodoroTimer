@@ -5,10 +5,22 @@ description: "A simple pomodoro timer with time adjustment function, swap betwee
 created_at: "2025-06-16"
 ---
 
-*Total hours spent: 17* | *Date started: 16 June 2025*
+*Total hours spent: 20* | *Date started: 16 June 2025*
 
 # Pomodoro Timer
 _i need to study_
+
+## entry #7 - 6/25
+
+finally finished adding the battery system in, and the project is now complete! some final pictures:
+
+![image](https://github.com/user-attachments/assets/114f6134-c00b-40cb-a946-9b0d0a92b756)
+![image](https://github.com/user-attachments/assets/50fff4a3-1299-4236-b577-3239b8d7bac7)
+![image](https://github.com/user-attachments/assets/ac3bf599-f91f-4385-a0e6-7b1af19456c6)
+
+it's been amazing getting to make this. see you in the next project!
+
+_time spent during session: 3 hours_
 
 ## entry #6 - 6/25
 
