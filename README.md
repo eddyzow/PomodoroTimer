@@ -1,5 +1,5 @@
 # PomodoroTimer
-*i need to study and don't know how!
+*i need to study and don't know how!*
 
 # Build Photos
 
